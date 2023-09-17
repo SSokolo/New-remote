@@ -15,4 +15,8 @@ while(connt<0)
 {
 count++;
 }
+<<<<<<< HEAD
    ```
+=======
+   ```
+>>>>>>> 89604ac501ba3056e8786acd27ea3ba72c1eca99
